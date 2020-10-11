@@ -1,2 +1,1 @@
-# git-assignmentThis is the first line
-This is the second line
+This is the 2nd line
